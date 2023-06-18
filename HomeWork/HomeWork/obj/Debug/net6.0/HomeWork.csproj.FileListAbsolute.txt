@@ -1,0 +1,15 @@
+C:\Users\minta\source\repos\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.exe
+C:\Users\minta\source\repos\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.deps.json
+C:\Users\minta\source\repos\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+C:\Users\minta\source\repos\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.dll
+C:\Users\minta\source\repos\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.pdb
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.csproj.AssemblyReference.cache
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.dll
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\refint\HomeWork.dll
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.pdb
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
+C:\Users\minta\source\repos\HomeWork\HomeWork\obj\Debug\net6.0\ref\HomeWork.dll
